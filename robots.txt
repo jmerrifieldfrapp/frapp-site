@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.thefrappapp.com/sitemap.xml
